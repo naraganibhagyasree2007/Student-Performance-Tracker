@@ -1,0 +1,9 @@
+Student_ID,Name,Python,Java,Maths,AI_ML,Total,Percentage,Grade,Result
+S001,Bhagya,85,78,90,88,341,85.25,A,Pass
+S002,Anjali,72,80,75,79,306,76.5,B,Pass
+S003,Rahul,60,65,70,68,263,65.75,C,Pass
+S004,Priya,92,89,95,91,367,91.75,A+,Pass
+S005,Arjun,45,55,50,48,198,49.5,F,Fail
+S006,Sneha,78,85,82,80,325,81.25,A,Pass
+S007,Kiran,66,72,68,70,276,69.0,C,Pass
+S008,Meena,88,91,85,90,354,88.5,A,Pass
